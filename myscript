@@ -1,3 +1,5 @@
 #!/bin/sh
 # Used to cat a text file
+# Almost forgot, make the script executable
+clear
 cat ./commits.txt

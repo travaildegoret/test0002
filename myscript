@@ -1,0 +1,3 @@
+#!/bin/sh
+# Used to cat a text file
+cat ./commits.txt
